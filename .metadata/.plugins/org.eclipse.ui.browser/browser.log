@@ -1,0 +1,219 @@
+
+Dec 17, 2022 02:24:10.800 NEW SESSION
+Dec 17, 2022 02:24:10.800 [1252:1964:1217/022410.798:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 17, 2022 02:24:16.436 [1252:5284:1217/022416.436:ERROR:device_event_log_impl.cc(215)] [02:24:16.436] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 17, 2022 02:24:16.445 [1252:5284:1217/022416.437:ERROR:device_event_log_impl.cc(215)] [02:24:16.436] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 18, 2022 18:14:49.23 NEW SESSION
+Dec 18, 2022 18:14:49.23 [9848:6972:1218/181449.021:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 18:14:53.657 [9848:10364:1218/181453.656:ERROR:device_event_log_impl.cc(215)] [18:14:53.656] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 18, 2022 18:14:53.677 [9848:10364:1218/181453.666:ERROR:device_event_log_impl.cc(215)] [18:14:53.666] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 18, 2022 18:15:49.271 [9848:11780:1218/181549.271:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Dec 18, 2022 18:34:23.340 [9848:5748:1218/183423.340:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:23.349 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:23.355 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:23.362 
+Dec 18, 2022 18:34:23.450 [9848:5748:1218/183423.450:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:23.461 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:23.473 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:23.483 
+Dec 18, 2022 18:34:23.751 [9848:5748:1218/183423.751:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:23.766 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:23.773 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:23.779 
+Dec 18, 2022 18:34:24.26 [9848:5748:1218/183424.025:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:24.61 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:24.93 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:24.121 
+Dec 18, 2022 18:34:24.201 [9848:7572:1218/183424.201:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:24.222 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:24.250 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:24.272 
+Dec 18, 2022 18:34:29.116 [9848:10640:1218/183429.116:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:29.129 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:29.135 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:29.143 
+Dec 18, 2022 18:34:57.358 [9848:7572:1218/183457.358:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:34:57.372 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:34:57.390 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:34:57.400 
+Dec 18, 2022 18:36:09.21 [9848:11660:1218/183609.021:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:36:09.29 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:36:09.39 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:36:09.46 
+Dec 18, 2022 18:38:05.763 [9848:5748:1218/183805.763:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:38:05.772 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:38:05.779 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:38:05.786 
+Dec 18, 2022 18:38:12.433 [9848:5748:1218/183812.433:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:38:12.456 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:38:12.466 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:38:12.477 
+Dec 18, 2022 18:40:40.726 [9848:11660:1218/184040.726:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:40:40.737 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:40:40.746 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:40:40.756 
+Dec 18, 2022 18:40:40.766 [9848:10640:1218/184040.726:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:40:40.775 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:40:40.785 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:40:40.802 
+Dec 18, 2022 18:41:25.04 [9848:8692:1218/184125.003:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:41:25.14 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:41:25.23 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:41:25.32 
+Dec 18, 2022 18:41:38.891 [9848:8692:1218/184138.891:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:41:38.902 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:41:38.914 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:41:38.920 
+Dec 18, 2022 18:46:03.782 [9848:8648:1218/184603.781:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 18:46:03.801 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 18:46:03.814 ERROR: Failed parsing Certificate
+Dec 18, 2022 18:46:03.833 
+Dec 18, 2022 20:18:18.741 [9848:10448:1218/201818.740:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 20:18:44.231 [9848:3064:1218/201844.230:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 20:18:44.237 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 20:18:44.245 ERROR: Failed parsing Certificate
+Dec 18, 2022 20:18:44.251 
+Dec 18, 2022 20:33:44.541 [9848:9828:1218/203344.540:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 21:06:39.319 [9848:176:1218/210639.318:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 21:06:42.119 [9848:10364:1218/210642.119:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Dec 18, 2022 21:24:52.721 [9848:10364:1218/212452.721:ERROR:device_event_log_impl.cc(215)] [21:24:52.721] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2022 21:50:08.376 [9848:8516:1218/215008.373:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 22:00:13.81 [9848:14072:1218/220013.080:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:00:13.96 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:00:13.103 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:00:13.111 
+Dec 18, 2022 22:00:20.874 [9848:1464:1218/220020.874:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:00:20.885 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:00:20.909 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:00:20.917 
+Dec 18, 2022 22:24:50.118 [9848:11256:1218/222450.118:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:24:50.129 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:24:50.143 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:24:50.153 
+Dec 18, 2022 22:24:51.591 [9848:6920:1218/222451.591:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:24:51.611 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:24:51.629 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:24:51.644 
+Dec 18, 2022 22:25:19.240 [9848:11256:1218/222519.240:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:25:19.252 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:25:19.258 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:25:19.264 
+Dec 18, 2022 22:26:04.781 [9848:9252:1218/222604.781:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:04.805 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:04.836 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:04.855 
+Dec 18, 2022 22:26:04.882 [9848:9252:1218/222604.823:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:04.907 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:04.921 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:04.952 
+Dec 18, 2022 22:26:04.969 [9848:10692:1218/222604.863:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:05.05 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:05.37 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:05.51 
+Dec 18, 2022 22:26:05.387 [9848:10692:1218/222605.387:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:05.403 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:05.417 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:05.430 
+Dec 18, 2022 22:26:07.689 [9848:9252:1218/222607.688:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:07.716 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:07.733 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:07.751 
+Dec 18, 2022 22:26:08.98 [9848:10984:1218/222608.098:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:08.134 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:08.159 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:08.243 
+Dec 18, 2022 22:26:09.294 [9848:9252:1218/222609.294:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:09.353 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:09.377 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:09.424 
+Dec 18, 2022 22:26:09.639 [9848:10984:1218/222609.638:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:09.698 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:09.717 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:09.731 
+Dec 18, 2022 22:26:10.234 [9848:9252:1218/222610.234:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:26:10.258 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:26:10.272 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:26:10.293 
+Dec 18, 2022 22:32:24.89 [9848:10692:1218/223224.089:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 22:32:24.171 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 22:32:24.238 ERROR: Failed parsing Certificate
+Dec 18, 2022 22:32:24.256 
+
+Dec 18, 2022 22:54:45.126 NEW SESSION
+Dec 18, 2022 22:54:45.126 [12952:1092:1218/225445.125:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 22:54:48.647 [12952:13704:1218/225448.647:ERROR:device_event_log_impl.cc(215)] [22:54:48.646] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 18, 2022 22:54:48.661 [12952:13704:1218/225448.650:ERROR:device_event_log_impl.cc(215)] [22:54:48.649] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 18, 2022 22:55:45.418 [12952:4748:1218/225545.418:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Dec 18, 2022 22:57:38.237 [4312:13140:1218/225738.236:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 22:57:41.344 [4312:3172:1218/225741.344:ERROR:device_event_log_impl.cc(215)] [22:57:41.343] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 18, 2022 22:57:41.360 [4312:3172:1218/225741.347:ERROR:device_event_log_impl.cc(215)] [22:57:41.347] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 18, 2022 22:57:57.285 [8352:8160:1218/225757.285:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 22:57:59.803 [8352:7592:1218/225759.803:ERROR:device_event_log_impl.cc(215)] [22:57:59.802] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 18, 2022 22:57:59.820 [8352:7592:1218/225759.803:ERROR:device_event_log_impl.cc(215)] [22:57:59.803] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 18, 2022 22:57:59.832 [8352:7592:1218/225759.804:ERROR:device_event_log_impl.cc(215)] [22:57:59.803] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 18, 2022 22:59:29.906 NEW SESSION
+Dec 18, 2022 22:59:29.906 [9288:12768:1218/225929.905:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 18, 2022 22:59:35.335 [9288:11960:1218/225935.334:ERROR:device_event_log_impl.cc(215)] [22:59:35.334] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 18, 2022 22:59:35.349 [9288:11960:1218/225935.338:ERROR:device_event_log_impl.cc(215)] [22:59:35.338] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 18, 2022 23:00:30.153 [9288:10008:1218/230030.153:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Dec 18, 2022 23:15:11.36 [9288:13756:1218/231511.036:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 18, 2022 23:15:11.46 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 18, 2022 23:15:11.58 ERROR: Failed parsing Certificate
+Dec 18, 2022 23:15:11.69 
+
+Dec 21, 2022 03:27:13.136 NEW SESSION
+Dec 21, 2022 03:27:13.136 [10908:5284:1221/032713.134:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 21, 2022 03:27:13.154 [10908:5284:1221/032713.154:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for OnDeviceHeadSuggest (C:\Users\ADMIN\AppData\Local\Google\Chrome\User Data\OnDeviceHeadSuggestModel\20221117.491765926).: The operation completed successfully. (0x0)
+Dec 21, 2022 03:27:17.736 [10908:13052:1221/032717.736:ERROR:device_event_log_impl.cc(215)] [03:27:17.737] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 21, 2022 03:27:17.752 [10908:13052:1221/032717.738:ERROR:device_event_log_impl.cc(215)] [03:27:17.739] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 21, 2022 03:28:13.376 [10908:7368:1221/032813.375:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Dec 21, 2022 08:32:44.780 NEW SESSION
+Dec 21, 2022 08:32:44.780 [472:11012:1221/083244.776:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 21, 2022 08:32:50.668 [472:11472:1221/083250.667:ERROR:device_event_log_impl.cc(215)] [08:32:50.668] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 21, 2022 08:32:50.700 [472:11472:1221/083250.675:ERROR:device_event_log_impl.cc(215)] [08:32:50.675] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 21, 2022 08:33:21.135 [472:10040:1221/083321.135:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Dec 21, 2022 09:16:05.88 [472:10040:1221/091605.087:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2022 09:16:06.179 [472:9704:1221/091606.179:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Dec 21, 2022 09:16:32.232 [472:10040:1221/091632.232:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2022 09:17:13.111 [472:10040:1221/091713.111:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2022 09:17:20.140 [472:9940:1221/091720.139:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Dec 21, 2022 09:54:53.824 [472:3660:1221/095453.824:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 21, 2022 09:54:53.920 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 21, 2022 09:54:54.01 ERROR: Failed parsing Certificate
+Dec 21, 2022 09:54:54.17 
+Dec 21, 2022 09:55:18.459 [472:8392:1221/095518.459:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 21, 2022 09:55:18.468 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 21, 2022 09:55:18.474 ERROR: Failed parsing Certificate
+Dec 21, 2022 09:55:18.482 
+Dec 21, 2022 09:55:19.704 [472:8392:1221/095519.704:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 21, 2022 09:55:19.710 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 21, 2022 09:55:19.717 ERROR: Failed parsing Certificate
+Dec 21, 2022 09:55:19.723 
+Dec 21, 2022 10:00:27.225 [472:2536:1221/100027.225:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Dec 21, 2022 10:00:27.240 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Dec 21, 2022 10:00:27.246 ERROR: Failed parsing Certificate
+Dec 21, 2022 10:00:27.252 
+Dec 21, 2022 10:04:35.845 [472:10004:1221/100435.844:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cs.chocolateplatform.com failed:
+Dec 21, 2022 10:04:35.854 ----- Certificate i=0 (CN=cs.chocolateplatform.com) -----
+Dec 21, 2022 10:04:35.862 ERROR: Time is after notAfter
+Dec 21, 2022 10:04:35.870 
+Dec 21, 2022 10:04:35.879 
+
+Dec 21, 2022 11:44:22.625 NEW SESSION
+Dec 21, 2022 11:44:22.625 [14004:11468:1221/114422.623:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 21, 2022 11:44:27.224 [14004:9160:1221/114427.223:ERROR:device_event_log_impl.cc(215)] [11:44:27.223] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 21, 2022 11:44:27.257 [14004:9160:1221/114427.236:ERROR:device_event_log_impl.cc(215)] [11:44:27.236] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 21, 2022 11:45:23.111 [14004:13916:1221/114523.110:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Dec 22, 2022 15:51:09.875 NEW SESSION
+Dec 22, 2022 15:51:09.875 [3312:6996:1222/155109.873:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 22, 2022 15:51:14.675 [3312:9552:1222/155114.674:ERROR:device_event_log_impl.cc(215)] [15:51:14.674] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 22, 2022 15:51:14.689 [3312:9552:1222/155114.676:ERROR:device_event_log_impl.cc(215)] [15:51:14.676] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+Dec 23, 2022 16:53:11.550 NEW SESSION
+Dec 23, 2022 16:53:11.550 [7692:3748:1223/165311.548:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Dec 23, 2022 16:53:16.35 [7692:11640:1223/165316.035:ERROR:device_event_log_impl.cc(215)] [16:53:16.035] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Dec 23, 2022 16:53:16.50 [7692:11640:1223/165316.036:ERROR:device_event_log_impl.cc(215)] [16:53:16.036] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
